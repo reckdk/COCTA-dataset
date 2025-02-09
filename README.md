@@ -36,3 +36,5 @@ yingtian.pan@stonybrook.edu
 #### Acknowledgment
 
 This work was partially supported by NIH grants 1R21DA057699 (CD, YP, HL), 1RF1DA048808 (YP) and 2R01DA029718 (YP), and partially supported by NSF grants IIS-2331769 (HL).
+
+The main annotation tool is [WEBKNOSSOS](https://home.webknossos.org).
